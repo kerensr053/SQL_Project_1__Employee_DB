@@ -1,5 +1,5 @@
 # SQL_Project_1__Employee_DB_Analysis
-This is the first SQL Project that I pushed on GitHub. It uses the Employee Database which has 6 interconnected tables. <br>
+This is the first SQL Project that I pushed on GitHub. It uses the Employee Database which has 6 interconnected tables.
 It is a complete end-to-end SQL project built on a relational employee database to perform real-world HR, payroll, and workforce analytics using MySQL.
 
 ![EmployeeDB-ER](https://github.com/user-attachments/assets/350528ef-91cf-4c5a-9b05-254dc0c30c89)
