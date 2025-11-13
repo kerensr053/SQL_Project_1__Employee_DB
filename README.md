@@ -4,39 +4,39 @@ It is a complete end-to-end SQL project built on a relational employee database 
 
 ![EmployeeDB-ER](https://github.com/user-attachments/assets/350528ef-91cf-4c5a-9b05-254dc0c30c89)
 
-📌 Project Overview
-This project uses a structured Employee Database containing information about employees, departments, salaries, job titles, managers, and department assignments.
-Using MySQL, the project demonstrates industry-level SQL skills, including:
-Basic SQL stuff
-Advanced JOIN operations
-Subqueries
-Window functions
-Aggregations and grouping
-Data analysis and insights
-Real-world HR and business-driven queries
-The goal of the project is to replicate how data analysts and HR analysts work with organizational data to generate insights for decision-making.
+📌 Project Overview<br>
+This project uses a structured Employee Database containing information about employees, departments, salaries, job titles, managers, and department assignments.<br>
+Using MySQL, the project demonstrates industry-level SQL skills, including:<br>
+Basic SQL stuff<br>
+Advanced JOIN operations<br>
+Subqueries<br>
+Window functions<br>
+Aggregations and grouping<br>
+Data analysis and insights<br>
+Real-world HR and business-driven queries<br>
+The goal of the project is to replicate how data analysts and HR analysts work with organizational data to generate insights for decision-making.<br>
 
-🎯 Objectives
-This project focuses on solving business and HR problems using SQL, such as:
-✔ Salary analysis
-✔ Department-level performance
-✔ Employee growth and promotion insights
-✔ Manager effectiveness
-✔ Pay gap and diversity analytics
-✔ Workforce distribution
-✔ Anomaly detection (e.g., employees earning more than managers)
+🎯 Objectives<br>
+This project focuses on solving business and HR problems using SQL, such as:<br>
+✔ Salary analysis<br>
+✔ Department-level performance<br>
+✔ Employee growth and promotion insights<br>
+✔ Manager effectiveness<br>
+✔ Pay gap and diversity analytics<br>
+✔ Workforce distribution<br>
+✔ Anomaly detection (e.g., employees earning more than managers)<br>
 
-🛠️ Technologies Used
-MySQL 8.0
-MySQL Workbench
-SQL (DDL + DML + Analytical Queries)
+🛠️ Technologies Used<br>
+MySQL 8.0<br>
+MySQL Workbench<br>
+SQL (DDL + DML + Analytical Queries)<br>
 
 📘 Project Features <br>
-🔹 1. Database Setup
-Creating all tables
-Defining primary & foreign keys
-Importing datasets
-Ensuring referential integrity
+🔹 1. Database Setup<br>
+Creating all tables<br>
+Defining primary & foreign keys<br>
+Importing datasets<br>
+Ensuring referential integrity<br>
 
-🔹 2. Real-World Analytical SQL Queries
-Companies use these insights for strategic decisions like promotions, compensation revision, budgeting, and workforce optimization.
+🔹 2. Real-World Analytical SQL Queries<br>
+Companies use these insights for strategic decisions like promotions, compensation revision, budgeting, and workforce optimization.<br>
